@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kamixx!
-- 👀 I’m interested in creating graphics and programing.
-- 🌱 I’m currently learning (html, css, js)
+- 👀 I’m interested in creating graphics and programing (html, css, js).
+- 🌱 I’m currently learning (Python)
 
 <!---
 KamiXX5159/KamiXX5159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
